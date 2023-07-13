@@ -148,15 +148,17 @@ body {
      }
      .ordr {
         font-family: var(--primary-font);
-        width: 169px;
-         height: 56px;
-          top: 428px;
-           left: 636px;
-           padding: 16px 32px 16px 32px;
-           border-radius: 4px;
-            gap: 10px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
             color: var(--primary-white-color);
             background-color: var(--primary-accent-color);
+     }
+     .ordr:hover, .ordr:focus {
+        color: var(--secondary-white-color);
+        background-color: var(--primary-accent-color);
      }
 
         
