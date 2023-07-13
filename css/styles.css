@@ -56,7 +56,7 @@ body {
         color: var(--active-link-color);
     }
     .to-get-in-touch{
-
+        font-style: normal;
     }
     .maill {
             font-family: var(--primary-font);
