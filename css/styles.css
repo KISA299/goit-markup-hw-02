@@ -158,8 +158,7 @@ body {
             background-color: var(--primary-accent-color);
      }
      .ordr:hover, .ordr:focus {
-        color: var(--primary-accent-color)
-        background-color: var(--primary-white-color);
+        background-color: var(--active-link-color);
      }
 
         
