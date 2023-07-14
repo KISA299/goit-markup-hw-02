@@ -47,7 +47,6 @@ body {
             font-weight: 500;
             line-height: 24px;
             letter-spacing: 0.02em;
-            text-align: left;
             color: var(--primary-black-color);
     }
 
@@ -61,10 +60,8 @@ body {
     .maill {
             font-family: var(--primary-font);
             font-size: 16px;
-            font-weight: 400;
             line-height: 24px;
             letter-spacing: 0.02em;
-            text-align: left;
             color: var(--secondary-accent-color);
     }
     .maill:hover, .maill:focus {
@@ -93,17 +90,14 @@ body {
                 font-weight: 500;
                 line-height: 1.2;
                 letter-spacing: 0.02em;
-                text-align: left;
                 color: var(--primary-black-color);
                 text-decoration: none;
         }
        .text {
         font-family: var(--primary-font);
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: left;
         color: var(--secondary-accent-color);
        }
       .pagefooter {
